@@ -5,6 +5,7 @@
 ![Database](https://img.shields.io/badge/DB-BikeStores-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Stars](https://img.shields.io/github/stars/yourname/BikeStores-Advanced-SQL-Window-Functions?style=social)
+[SQL Queries](https://github.com/Mohamed-Nofal-DataAnalysis/BikeStores-Analytics-Dashboard-SQL/blob/main/SQLQuery1.sql)
 
 **6 interview-killing SQL queries** using the most powerful Window Functions:
 `RANK()`, `DENSE_RANK()`, `ROW_NUMBER()`, Cumulative SUM, Subqueries + HAVING
