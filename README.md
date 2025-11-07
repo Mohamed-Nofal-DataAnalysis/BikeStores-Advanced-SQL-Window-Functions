@@ -22,9 +22,9 @@ Perfect for **Senior Data Analyst** & **BI Developer** interviews!
 | 5 | Top employee per year by order count | `ROW_NUMBER()` |
 | 6 | Top 3 most expensive products per category | `ROW_NUMBER()` |
 
-## Full Queries (Copy-Paste Ready)
+## Usage Example
 
-### 1. Customer Ranking by Total Order Value
+### Customer Ranking by Total Order Value
 ```sql
 SELECT
     O.customer_id,
